@@ -1,0 +1,25 @@
+.bg-color{
+    background-color: rgb(165, 158, 158);
+}
+.font{
+    font-size: 1.5rem;
+    font-weight: 20px;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
+
+.dark{
+    color: black;
+    font-weight: 200;
+}
+
+.hi{
+    border: 3px solid black;
+}
+
+.container-fluid{
+    width: 100%;
+}
